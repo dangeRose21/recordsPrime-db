@@ -1,2 +1,2 @@
 # recordsPrime-db
-Database for recordsPrime record company
+SQL Database for recordsPrime record company
